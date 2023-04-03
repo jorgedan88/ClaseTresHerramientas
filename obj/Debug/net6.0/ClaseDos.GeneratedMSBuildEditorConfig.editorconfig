@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClaseDos
 build_property.RootNamespace = ClaseDos
-build_property.ProjectDir = /home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/
+build_property.ProjectDir = /home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos
+build_property.MSBuildProjectDirectory = /home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/Error.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/Index.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/Privacy.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/_ViewImports.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/_ViewStart.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/Pages/Shared/_Layout.cshtml]
+[/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2dmeesrr5j

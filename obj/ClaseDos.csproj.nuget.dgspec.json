@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/ClaseDos.csproj": {}
+    "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/ClaseDos.csproj": {}
   },
   "projects": {
-    "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/ClaseDos.csproj": {
+    "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/ClaseDos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/ClaseDos.csproj",
+        "projectUniqueName": "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/ClaseDos.csproj",
         "projectName": "ClaseDos",
-        "projectPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/ClaseDos.csproj",
+        "projectPath": "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/ClaseDos.csproj",
         "packagesPath": "/home/jorge_linux/.nuget/packages/",
-        "outputPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/obj/",
+        "outputPath": "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jorge_linux/.nuget/NuGet/NuGet.Config"
