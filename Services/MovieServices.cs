@@ -15,9 +15,9 @@ public static class MovieService
     {
         Movies = new List<Movie>
         {
-            new Movie { Name = "Pepe1", Code = "001", Category = "Sci fi", Minutes = 110},
-            new Movie { Name = "Pepe2", Code = "001", Category = "Sci fi", Minutes = 110 },
-            new Movie { Name = "Pepe3", Code = "001", Category = "Sci fi", Minutes = 110 }
+            new Movie { Name = "Pelicula Uno", Code = "001", Category = "Sci fi", Minutes = 110},
+            new Movie { Name = "Pelicula Dos", Code = "002", Category = "Sci fi", Minutes = 110 },
+            new Movie { Name = "Pelicula Tres", Code = "003", Category = "Sci fi", Minutes = 110 }
         };
     }
 
