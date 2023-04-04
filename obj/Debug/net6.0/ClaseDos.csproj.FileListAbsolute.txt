@@ -24,3 +24,14 @@
 /home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/obj/Debug/net6.0/ClaseDos.pdb
 /home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/obj/Debug/net6.0/ClaseDos.genruntimeconfig.cache
 /home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/obj/Debug/net6.0/ref/ClaseDos.dll
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.RazorAssemblyInfo.cache
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.RazorAssemblyInfo.cs
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.dll
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\refint\ClaseDos.dll
+C:\Users\olive\OneDrive\Escritorio\RepositorioIstea\HerramientasDeProgramacion\obj\Debug\net6.0\ClaseDos.pdb

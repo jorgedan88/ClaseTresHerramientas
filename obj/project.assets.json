@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/ClaseDos.csproj",
-      "projectName": "ClaseDos",
-      "projectPath": "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/ClaseDos.csproj",
+      "projectUniqueName": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/ClaseTres.csproj",
+      "projectName": "ClaseTres",
+      "projectPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/ClaseTres.csproj",
       "packagesPath": "/home/jorge_linux/.nuget/packages/",
-      "outputPath": "/home/jorge_linux/C_2C/RepositorioIstea/HerramientasDeProgramacion/obj/",
+      "outputPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jorge_linux/.nuget/NuGet/NuGet.Config"

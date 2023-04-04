@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/ClaseDos.csproj",
+                "${workspaceFolder}/ClaseTres.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/ClaseDos.csproj",
+                "${workspaceFolder}/ClaseTres.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/ClaseDos.csproj"
+                "${workspaceFolder}/ClaseTres.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
