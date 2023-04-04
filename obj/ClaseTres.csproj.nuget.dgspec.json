@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/ClaseTres.csproj": {}
+    "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\HerramientasDeProgramacion\\ClaseTres.csproj": {}
   },
   "projects": {
-    "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/ClaseTres.csproj": {
+    "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\HerramientasDeProgramacion\\ClaseTres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/ClaseTres.csproj",
+        "projectUniqueName": "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\HerramientasDeProgramacion\\ClaseTres.csproj",
         "projectName": "ClaseTres",
-        "projectPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/ClaseTres.csproj",
-        "packagesPath": "/home/jorge_linux/.nuget/packages/",
-        "outputPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseTresHerr/ClaseTres/obj/",
+        "projectPath": "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\HerramientasDeProgramacion\\ClaseTres.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\HerramientasDeProgramacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jorge_linux/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
