@@ -1,19 +1,20 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ClaseTres.Models;
+using ClaseTres.Services;
 
-namespace ClaseDos.Pages;
+namespace ClaseTres.Pages;
 
 public class IndexModel : PageModel
 {
-    private readonly ILogger<IndexModel> _logger;
-
-    public IndexModel(ILogger<IndexModel> logger)
+    public List<Movie> MovieList { get; set;}
+    public IndexModel()
     {
-        _logger = logger;
     }
 
     public void OnGet()
     {
-
+        MovieList = MovieService.GetAll();
     }
 }
+
