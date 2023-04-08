@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/jorge_linux/.nuget/packages/": {}
+    "C:\\Users\\olive\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/ClaseDos.csproj",
-      "projectName": "ClaseDos",
-      "projectPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/ClaseDos.csproj",
-      "packagesPath": "/home/jorge_linux/.nuget/packages/",
-      "outputPath": "/home/jorge_linux/C_2C/CURSOS/SegundoAño/HerramientasProgramacion/ClaseDosHerr/ClaseDos/obj/",
+      "projectUniqueName": "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\ClaseTresHerramientas\\ClaseTresHerramientas.csproj",
+      "projectName": "ClaseTresHerramientas",
+      "projectPath": "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\ClaseTresHerramientas\\ClaseTresHerramientas.csproj",
+      "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\olive\\OneDrive\\Escritorio\\RepositorioIstea\\ClaseTresHerramientas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/jorge_linux/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -62,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

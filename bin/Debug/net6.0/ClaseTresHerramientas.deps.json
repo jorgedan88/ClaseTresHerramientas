@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ClaseDos/1.0.0": {
+      "ClaseTresHerramientas/1.0.0": {
         "runtime": {
-          "ClaseDos.dll": {}
+          "ClaseTresHerramientas.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ClaseDos/1.0.0": {
+    "ClaseTresHerramientas/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
