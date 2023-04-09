@@ -16,7 +16,10 @@ namespace ClaseTresHerramientas.Service{}
 
     public static List<Movie> GetAll() => Movies;
 
-// ADD
-// DELETE
-// UPDATE
+    public static void Add(Movie obj){
+        if(obj == null){
+            return;
+        }
+        Movies.Add(obj);
+    }
 }

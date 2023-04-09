@@ -5,7 +5,7 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Peliculas varias</h1>
+    <h1 class="display-4">Lista de peliculas</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
@@ -16,3 +16,27 @@
         <li>@item.Name</li>
     }
 </ul>
+
+<form method="Post">
+    <div class="mb-3">
+    <label asp-for="NewMovie.Code" class="form-label"></label>
+    <input type="text" class="form-control" asp-for="NewMovie.Code">
+  </div>
+  <div class="mb-3">
+    <label asp-for="NewMovie.Name" class="form-label"></label>
+    <input type="text" class="form-control" asp-for="NewMovie.Name">
+  </div>
+  <div class="mb-3">
+    <label asp-for="NewMovie.Category" class="form-label"></label>
+    <input type="text" class="form-control" asp-for="NewMovie.Category">
+  </div>
+    <div class="mb-3">
+    <label asp-for="NewMovie.Minutes" class="form-label"></label>
+    <input type="text" class="form-control" asp-for="NewMovie.Minutes">
+  </div>
+    <div class="mb-3">
+    <label asp-for="NewMovie.Review" class="form-label"></label>
+<textarea class="form-control" asp-for="NewMovie.Review" cols="5"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Crear</button>
+</form>
