@@ -8,7 +8,7 @@ namespace ClaseTresHerramientas.Service{}
         static MovieService(){
             Movies = new List<Movie>{
             new Movie { Name = "Back to the future", Code = "BTF", Category = "Sci fi", Minutes = 100},                        
-            new Movie { Name = "Avatar", Code = "AVT", Category = "Sci fi", Minutes = 500} ,
+            new Movie { Name = "Avatar", Code = "AVT", Category = "Sci fi", Minutes = 500, Review = "Por que no aparece la reseña"} ,
             new Movie { Name = "Hannibal", Code = "HNL", Category = "Terror", Minutes = 110}
 
             };
@@ -22,4 +22,12 @@ namespace ClaseTresHerramientas.Service{}
         }
         Movies.Add(obj);
     }
+    public static void Delete(string code){
+        var movieToDelete = Get(code);
+
+        if (movieToDelete != null){
+            Movies.Remove(movieToDelete);
+        }
+    }
+    public static Movie? Get(string code) => Movies.FirstOrDefault(x => x.Code.ToLower() == code.ToLower());//recibe un stting (el codigo)
 }

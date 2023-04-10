@@ -11,9 +11,9 @@
 
 
 <ul>
-    @foreach (var item in Model.MovieList) //Para tener acceso a la propiedad(MovieList) necesito llamar al modelo de la pagina(Model)
+    @foreach (var item in Model.MovieList) 
     {
-        <li>@item.Name</li>
+        <li><a asp-page="MovieDetail" asp-route-code="@item.Code">@item.Name</a></li>
     }
 </ul>
 
